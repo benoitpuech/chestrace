@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1036251351551",
+    "firebase_url": "https://geocaches-8ff6b.firebaseio.com",
+    "project_id": "geocaches-8ff6b",
+    "storage_bucket": "geocaches-8ff6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036251351551:android:dbebe18f1e1ab79a",
+        "android_client_info": {
+          "package_name": "fr.wildcodeshcool.chestrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036251351551-bfgafv21pku6qcjmur9sopr28e2ec739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHayU4C0x0deRPtF0Ehevc-yZWR5ZATA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
